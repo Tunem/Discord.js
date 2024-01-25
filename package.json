@@ -1,0 +1,17 @@
+{
+  "name": "maid-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/roboto": "^5.0.8",
+    "@napi-rs/canvas": "^0.1.44",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.2"
+  }
+}
